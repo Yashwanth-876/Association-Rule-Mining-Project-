@@ -123,7 +123,7 @@ plot(rules,
 
 rule1 = apriori(trans, parameter = list(support = 0.005, confidence = 0.4, minlen = 2)) ;rule1
 
-rule2 <- apriori(trans, parameter = list(support = 0.02, confidence = 0.6, minlen = 2)) ;rule2
+rule2 = apriori(trans, parameter = list(support = 0.02, confidence = 0.6, minlen = 2)) ;rule2
 
 
 write(rule1, file = "rule1_association_rules.csv", sep = ",", quote = TRUE, row.names = FALSE)
