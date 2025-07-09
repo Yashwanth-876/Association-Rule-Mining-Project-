@@ -3,7 +3,9 @@
 # Author: Mamidala Yashwanth
 
 # Purpose: Apply the Apriori algorithm to discover meaningful
-product associations and visualize common buying patterns in grocery transactions.The data,sourced from Kaggle (9835 , 32), captures real world customer purchases and helps to uncover which items are frequently bought together
+product associations and visualize common buying patterns 
+in grocery transactions.The data,sourced from 
+Kaggle (9835 , 32), captures real world customer purchases and helps to uncover which items are frequently bought together
 
 # STEP 1 : Setup and Package Installation
 
